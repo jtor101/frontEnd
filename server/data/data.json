@@ -1,0 +1,74 @@
+{
+  "mountains": [
+    {
+      "name": "Mt. George",
+      "elevation": "6188",
+      "effort": "Moderate to Strenuous",
+      "img": "n/a",
+      "desc": "",
+      "summited": true,
+      "lat": "13.0",
+      "lng": "14.2"
+    },
+    {
+      "name": "Mt. Mountainasia",
+      "elevation": "5000",
+      "effort": "Strenuous",
+      "img": "No image provided",
+      "desc": "",
+      "summited": true,
+      "lat": "44.1",
+      "lng": "75.1"
+    },
+    {
+      "name": "Mt. Jumanji",
+      "elevation": "6000",
+      "effort": "Strenuous",
+      "img": "There is no file, ye who enter here.",
+      "desc": "",
+      "summited": false,
+      "lat": "41.3",
+      "lng": "21.3"
+    },
+    {
+      "name": "Hill Mountain",
+      "elevation": "6100",
+      "effort": "Strenuous",
+      "img": "Washington-StoryImage_2.jpg",
+      "desc": "",
+      "summited": true,
+      "lat": "44.2",
+      "lng": "-71.3"
+    },
+    {
+      "name": "Mt. Batman",
+      "elevation": "5500",
+      "effort": "Moderate to Strenuous",
+      "img": "Adams-StoryImage_2.jpg",
+      "desc": "",
+      "summited": false,
+      "lat": "52.1",
+      "lng": "33.3"
+    },
+    {
+      "name": "Mt. Flash",
+      "elevation": "6091",
+      "effort": "Strenuous",
+      "img": "Jefferson-StoryImage_2.jpg",
+      "desc": "",
+      "summited": true,
+      "lat": "31.2",
+      "lng": "54.1"
+    },
+    {
+      "name": "Mt. Rob",
+      "elevation": "5900",
+      "effort": "Strenuous",
+      "img": "Adams-StoryImage_2.jpg",
+      "desc": "",
+      "summited": true,
+      "lat": "62.1",
+      "lng": "54.2"
+    }
+  ]
+}
